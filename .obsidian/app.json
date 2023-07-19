@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "source",
+  "newFileLocation": "root",
+  "promptDelete": false,
+  "livePreview": true,
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "./assets"
+}

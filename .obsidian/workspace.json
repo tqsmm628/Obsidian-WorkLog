@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "5caaa76867aa849b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2a4194ccd9461ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1973d9a80d212214",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Projects/GDB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "926820a04e9303db",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cf228bd2c71fd3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ec5d08149b74640",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7a1a7fbcd3c84dfc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9e93df6ba552bc52",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "84b5784f70240037",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f827dc2fff1ea31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f26de2cbbf6b5f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02 - Projects/GDB.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5d34d3eafee44d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02 - Projects/GDB.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "70e50fc68c683e92",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "289708edbb24cb4b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02 - Projects/GDB.md"
+              }
+            }
+          },
+          {
+            "id": "e84c41ce44aad0bd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "zk-prefixer:建立新唯一筆記": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "1973d9a80d212214",
+  "lastOpenFiles": [
+    "02 - Projects/PTX.md",
+    "02 - Projects/GDB.md",
+    "[ETL]將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
+    "PTX環境.md",
+    "4-2-3 鄉鎮計畫管理.md",
+    "02 - Projects/WEL.md",
+    "4-2-1 中央計畫管理.md",
+    "01 - Logs/2023-07-19.md",
+    "01 - Logs/2023-07-18.md",
+    "01 - Logs/2023-05-29.md",
+    "00 - Inbox",
+    "01 - Logs",
+    "202307191026.md",
+    "Projects/未命名",
+    "Projects/Issues/4-2-1 中央計畫管理.md",
+    "Projects/Issues/Archive",
+    "Projects/Issues",
+    "202305291127.md",
+    "202305291128.md",
+    "我的資料夾/我的新筆記.md",
+    "我的資料夾",
+    "Issues/4-2-1 中央計畫管理.md",
+    "Issues",
+    "Projects/未命名.canvas",
+    "Issues/4-2-1.md",
+    "02 - Projects"
+  ]
+}
