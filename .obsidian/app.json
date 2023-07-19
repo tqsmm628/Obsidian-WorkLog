@@ -1,9 +1,12 @@
 {
   "alwaysUpdateLinks": true,
-  "defaultViewMode": "source",
+  "defaultViewMode": "preview",
   "newFileLocation": "root",
   "promptDelete": false,
   "livePreview": true,
   "newLinkFormat": "shortest",
-  "attachmentFolderPath": "./assets"
+  "attachmentFolderPath": "./assets",
+  "strictLineBreaks": false,
+  "showLineNumber": false,
+  "showInlineTitle": false
 }

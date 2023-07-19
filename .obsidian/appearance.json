@@ -1,5 +1,7 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "cssTheme": "GitHub Theme"
+  "cssTheme": "GitHub Theme",
+  "showViewHeader": false,
+  "translucency": false
 }
