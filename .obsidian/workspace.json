@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f2a4194ccd9461ed",
+        "id": "c4ccbcc6f3a99f1d",
         "type": "tabs",
         "children": [
           {
-            "id": "1973d9a80d212214",
+            "id": "851397ac4f2f962e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Projects/GDB.md",
+                "file": "4-2-3 鄉鎮計畫管理.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "84b5784f70240037",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Projects/GDB.md",
+                "file": "4-2-3 鄉鎮計畫管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Projects/GDB.md",
+                "file": "4-2-3 鄉鎮計畫管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Projects/GDB.md"
+                "file": "4-2-3 鄉鎮計畫管理.md"
               }
             }
           },
@@ -157,16 +158,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1973d9a80d212214",
+  "active": "851397ac4f2f962e",
   "lastOpenFiles": [
-    "02 - Projects/PTX.md",
+    "01 - Logs/2023-07-19.md",
+    "4-2-3 鄉鎮計畫管理.md",
+    "README.md",
     "02 - Projects/GDB.md",
+    "02 - Projects/PTX.md",
     "[ETL]將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
     "PTX環境.md",
-    "4-2-3 鄉鎮計畫管理.md",
     "02 - Projects/WEL.md",
     "4-2-1 中央計畫管理.md",
-    "01 - Logs/2023-07-19.md",
     "01 - Logs/2023-07-18.md",
     "01 - Logs/2023-05-29.md",
     "00 - Inbox",
