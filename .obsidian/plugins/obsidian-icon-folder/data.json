@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "‼",
       "🔑",
       "💼",
       "📁",
-      "📥",
-      "📅"
+      "📥"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -26,5 +26,6 @@
   "01-Inbox": "📥",
   "88-Attachments": "📁",
   "02-Projects": "💼",
-  "99-Library": "🔑"
+  "99-Library": "🔑",
+  "03-Issues": "‼"
 }

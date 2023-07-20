@@ -1,5 +1,8 @@
 ---
 url: https://gitlab.transportdata.tw/gdb/sso/etl/backstage/-/issues/4
+project: gdb/sso/etl/backstage
+status: doing
+type: gdb
 ---
 #issue #doing #gdb
 # [[2023-07-19]]
