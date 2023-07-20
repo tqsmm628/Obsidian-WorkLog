@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1c14ef8b7d3cd43d",
+        "id": "3e6a5e9d23e4ddb3",
         "type": "tabs",
         "children": [
           {
-            "id": "db4ab47a6f0fb22b",
+            "id": "2da5bbc5f04ea58c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +19,8 @@
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -69,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "84b5784f70240037",
@@ -164,12 +166,12 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "db4ab47a6f0fb22b",
+  "active": "2da5bbc5f04ea58c",
   "lastOpenFiles": [
+    "00-DailyNotes/2023-07-19.md",
+    "99-Library/[ETL]將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
     "02-Projects/GDB.md",
     "00-DailyNotes/2023-07-20.md",
-    "99-Library/[ETL]將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
-    "00-DailyNotes/2023-07-19.md",
     "99-Library/4-2-1 中央計畫管理.md",
     "02-Projects/WEL.md",
     "README.md",
