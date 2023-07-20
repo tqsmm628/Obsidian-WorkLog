@@ -53,3 +53,5 @@ type: gdb
 		```
 	- Log的Model要繼承 InfraLogData
 	- LoggerHelper的CreateLogger的LogType用自定義。
+
+以
