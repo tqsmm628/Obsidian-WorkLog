@@ -6,6 +6,7 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "💼",
       "📁",
       "📥",
       "📅"
@@ -22,5 +23,6 @@
   },
   "00-DailyNotes": "📅",
   "01-Inbox": "📥",
-  "88-Attachments": "📁"
+  "88-Attachments": "📁",
+  "02-Projects": "💼"
 }
