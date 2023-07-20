@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99-Library/[ETL]將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
+                "file": "02-Projects/WEL.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "84b5784f70240037",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99-Library/[ETL]將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
+                "file": "02-Projects/WEL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99-Library/[ETL]將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
+                "file": "02-Projects/WEL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99-Library/[ETL]將keycloak的密碼更新時間同步至TGPSSO資料庫.md"
+                "file": "02-Projects/WEL.md"
               }
             }
           },
@@ -168,17 +167,17 @@
   },
   "active": "2da5bbc5f04ea58c",
   "lastOpenFiles": [
+    "02-Projects/PTX.md",
+    "02-Projects/GDB.md",
+    "99-Library/[ETL]將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
     "00-DailyNotes/2023-07-20.md",
     "00-DailyNotes/2023-07-19.md",
-    "99-Library/[ETL]將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
-    "02-Projects/GDB.md",
     "99-Library/4-2-1 中央計畫管理.md",
     "02-Projects/WEL.md",
     "README.md",
     "88-Attachments",
     "99-Library",
     "99-Library/4-2-3 鄉鎮計畫管理.md",
-    "02-Projects/PTX.md",
     "99-Library/PTX環境.md",
     "01 - Logs/2023-07-18.md",
     "00-DailyNotes/2023-05-29.md",
