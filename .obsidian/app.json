@@ -1,12 +1,13 @@
 {
   "alwaysUpdateLinks": true,
   "defaultViewMode": "preview",
-  "newFileLocation": "root",
+  "newFileLocation": "folder",
   "promptDelete": false,
   "livePreview": true,
   "newLinkFormat": "shortest",
-  "attachmentFolderPath": "./assets",
+  "attachmentFolderPath": "88-Attachments",
   "strictLineBreaks": false,
   "showLineNumber": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "newFileFolderPath": "99-Library"
 }

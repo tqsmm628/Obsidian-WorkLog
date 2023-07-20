@@ -13,14 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Projects/GDB.md",
-                "mode": "preview",
+                "file": "02-Projects/WEL.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Projects/GDB.md",
+                "file": "02-Projects/WEL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Projects/GDB.md",
+                "file": "02-Projects/WEL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Projects/GDB.md"
+                "file": "02-Projects/WEL.md"
               }
             }
           },
@@ -135,6 +134,14 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "efa993b1afc8ceb0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }
@@ -149,29 +156,32 @@
     "hiddenItems": {
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
-      "canvas:建立新畫布": false,
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
       "zk-prefixer:建立新唯一筆記": false,
-      "daily-notes:開啟今天的每日筆記": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false
     }
   },
   "active": "db4ab47a6f0fb22b",
   "lastOpenFiles": [
-    "4-2-3 鄉鎮計畫管理.md",
-    "02 - Projects/GDB.md",
-    "02 - Projects/PTX.md",
-    "PTX環境.md",
-    "[ETL]將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
-    "00 - Daily Notes/2023-07-19.md",
+    "00-DailyNotes/2023-07-20.md",
+    "99-Library/[ETL]將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
+    "88-Attachments",
+    "02-Projects/GDB.md",
+    "99-Library",
+    "99-Library/4-2-3 鄉鎮計畫管理.md",
+    "02-Projects/PTX.md",
+    "99-Library/PTX環境.md",
+    "00-DailyNotes/2023-07-19.md",
     "README.md",
-    "02 - Projects/WEL.md",
-    "4-2-1 中央計畫管理.md",
+    "02-Projects/WEL.md",
+    "99-Library/4-2-1 中央計畫管理.md",
     "01 - Logs/2023-07-18.md",
-    "00 - Daily Notes/2023-05-29.md",
-    "01 - Inbox",
-    "00 - Daily Notes",
+    "00-DailyNotes/2023-05-29.md",
+    "01-Inbox",
+    "00-DailyNotes",
     "202307191026.md",
     "Projects/未命名",
     "Projects/Issues/4-2-1 中央計畫管理.md",
@@ -185,6 +195,6 @@
     "Issues",
     "Projects/未命名.canvas",
     "Issues/4-2-1.md",
-    "02 - Projects"
+    "02-Projects"
   ]
 }
