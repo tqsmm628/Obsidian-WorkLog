@@ -9,5 +9,8 @@
   "strictLineBreaks": false,
   "showLineNumber": false,
   "showInlineTitle": false,
-  "newFileFolderPath": "99-Library"
+  "newFileFolderPath": "99-Library",
+  "readableLineLength": true,
+  "showFrontmatter": false,
+  "showIndentGuide": false
 }
