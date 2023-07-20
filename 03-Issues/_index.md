@@ -1,4 +1,3 @@
-
 ```dataview
 table 
 	rows.file.link as "name",
@@ -9,6 +8,5 @@ sort file.name
 group by type
 ```
 
-^11b73c
 
 

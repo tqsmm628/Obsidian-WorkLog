@@ -4,7 +4,7 @@ project: gdb/sso/etl/backstage
 status: doing
 type: gdb
 ---
-#issue #doing #gdb
+#issue 
 # [[2023-07-19]]
 
 還差 logstash
