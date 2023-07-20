@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3e6a5e9d23e4ddb3",
+        "id": "beec5b42d62632bc",
         "type": "tabs",
         "children": [
           {
-            "id": "2da5bbc5f04ea58c",
+            "id": "d84460461ca0801f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Issues/_index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-Issues/_index.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03-Issues/_index.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Issues/_index.md"
+                "file": "README.md"
               }
             }
           },
@@ -165,19 +165,21 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "2da5bbc5f04ea58c",
+  "active": "d84460461ca0801f",
   "lastOpenFiles": [
-    "03-Issues/[ETL]將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
     "03-Issues/_index.md",
-    "03-Issues/4-2-3 鄉鎮計畫管理.md",
+    "README.md",
+    "99-Library/^28b1f1.md",
+    "HOME.md",
+    "03-Issues/[ETL]將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
     "03-Issues/4-2-1 中央計畫管理.md",
+    "03-Issues/4-2-3 鄉鎮計畫管理.md",
     "02-Projects/WEL.md",
     "02-Projects/GDB.md",
     "03-Issues",
     "02-Projects/PTX.md",
     "00-DailyNotes/2023-07-20.md",
     "00-DailyNotes/2023-07-19.md",
-    "README.md",
     "88-Attachments",
     "99-Library",
     "99-Library/PTX環境.md",
