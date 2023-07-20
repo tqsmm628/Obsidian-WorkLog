@@ -13,13 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Projects/WEL.md",
+                "file": "00-DailyNotes/2023-07-20.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Projects/WEL.md",
+                "file": "00-DailyNotes/2023-07-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Projects/WEL.md",
+                "file": "00-DailyNotes/2023-07-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Projects/WEL.md"
+                "file": "00-DailyNotes/2023-07-20.md"
               }
             }
           },
@@ -166,6 +167,8 @@
   },
   "active": "db4ab47a6f0fb22b",
   "lastOpenFiles": [
+    "02-Projects/WEL.md",
+    "README.md",
     "00-DailyNotes/2023-07-20.md",
     "99-Library/[ETL]將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
     "88-Attachments",
@@ -175,8 +178,6 @@
     "02-Projects/PTX.md",
     "99-Library/PTX環境.md",
     "00-DailyNotes/2023-07-19.md",
-    "README.md",
-    "02-Projects/WEL.md",
     "99-Library/4-2-1 中央計畫管理.md",
     "01 - Logs/2023-07-18.md",
     "00-DailyNotes/2023-05-29.md",
