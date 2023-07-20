@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "00-DailyNotes/2023-07-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "00-DailyNotes/2023-07-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "00-DailyNotes/2023-07-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "00-DailyNotes/2023-07-20.md"
               }
             }
           },
@@ -167,21 +167,21 @@
   },
   "active": "6df5cd728018d0a5",
   "lastOpenFiles": [
+    "00-DailyNotes/2023-07-19.md",
+    "00-DailyNotes/2023-05-29.md",
+    "00-DailyNotes/2023-07-20.md",
+    "README.md",
     "03-Issues/4-2-3 鄉鎮計畫管理.md",
     "03-Issues/_index.md",
     "02-Projects/GDB/gdb.sso.etl.backstage.md",
     "02-Projects/GDB",
     "03-Issues/將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
-    "README.md",
-    "00-DailyNotes/2023-05-29.md",
     "03-Issues/4-2-1 中央計畫管理.md",
     "99-Library/^28b1f1.md",
     "HOME.md",
     "02-Projects/WEL.md",
     "03-Issues",
     "02-Projects/PTX.md",
-    "00-DailyNotes/2023-07-20.md",
-    "00-DailyNotes/2023-07-19.md",
     "88-Attachments",
     "99-Library",
     "99-Library/PTX環境.md",
