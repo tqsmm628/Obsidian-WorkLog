@@ -54,4 +54,4 @@ type: gdb
 	- Log的Model要繼承 InfraLogData
 	- LoggerHelper的CreateLogger的LogType用自定義。
 
-以
+目前按照上面的步驟做了，但無法在[kibana](https://192.168.50.56/kibana/app/discover)看到

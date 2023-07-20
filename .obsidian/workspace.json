@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Issues/將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
+                "file": "02-Projects/GDB/gdb.sso.etl.backstage.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "84b5784f70240037",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-Issues/將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
+                "file": "02-Projects/GDB/gdb.sso.etl.backstage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03-Issues/將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
+                "file": "02-Projects/GDB/gdb.sso.etl.backstage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Issues/將keycloak的密碼更新時間同步至TGPSSO資料庫.md"
+                "file": "02-Projects/GDB/gdb.sso.etl.backstage.md"
               }
             }
           },
@@ -168,16 +167,17 @@
   },
   "active": "68503ffa189ed383",
   "lastOpenFiles": [
+    "02-Projects/GDB",
+    "03-Issues/將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
     "03-Issues/_index.md",
     "README.md",
     "00-DailyNotes/2023-05-29.md",
     "03-Issues/4-2-1 中央計畫管理.md",
-    "03-Issues/將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
     "99-Library/^28b1f1.md",
     "HOME.md",
     "03-Issues/4-2-3 鄉鎮計畫管理.md",
     "02-Projects/WEL.md",
-    "02-Projects/GDB.md",
+    "02-Projects/GDB/gdb.sso.etl.backstage.md",
     "03-Issues",
     "02-Projects/PTX.md",
     "00-DailyNotes/2023-07-20.md",
