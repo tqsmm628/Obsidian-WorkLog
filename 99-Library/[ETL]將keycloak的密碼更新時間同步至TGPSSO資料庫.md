@@ -49,5 +49,4 @@ url: https://gitlab.transportdata.tw/gdb/sso/etl/backstage/-/issues/4
 		  }
 		```
 	- Log的Model要繼承 InfraLogData
-		- 
 	- LoggerHelper的CreateLogger的LogType用自定義。
