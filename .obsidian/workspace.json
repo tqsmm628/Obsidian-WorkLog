@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Issues/4-2-3 鄉鎮計畫管理.md",
+                "file": "99-Library/保育案資料庫新舊比較.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-Issues/4-2-3 鄉鎮計畫管理.md",
+                "file": "99-Library/保育案資料庫新舊比較.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03-Issues/4-2-3 鄉鎮計畫管理.md",
+                "file": "99-Library/保育案資料庫新舊比較.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Issues/4-2-3 鄉鎮計畫管理.md"
+                "file": "99-Library/保育案資料庫新舊比較.md"
               }
             }
           },
@@ -174,9 +174,9 @@
   },
   "active": "95b3416528f0cb79",
   "lastOpenFiles": [
+    "03-Issues/4-2-3 鄉鎮計畫管理.md",
     "77-Templates",
     "00-DailyNotes/2023-07-21.md",
-    "03-Issues/4-2-3 鄉鎮計畫管理.md",
     "00-DailyNotes/2023-08-18.md",
     "00-DailyNotes/2023-11-07.md",
     "README.md",
@@ -208,7 +208,6 @@
     "202305291127.md",
     "202305291128.md",
     "我的資料夾/我的新筆記.md",
-    "我的資料夾",
     "Issues/4-2-1 中央計畫管理.md",
     "Projects/未命名.canvas"
   ]
