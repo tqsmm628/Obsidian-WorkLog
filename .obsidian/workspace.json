@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Issues/_index.md",
+                "file": "03-Issues/4-2-3 鄉鎮計畫管理.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-Issues/_index.md",
+                "file": "03-Issues/4-2-3 鄉鎮計畫管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03-Issues/_index.md",
+                "file": "03-Issues/4-2-3 鄉鎮計畫管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Issues/_index.md"
+                "file": "03-Issues/4-2-3 鄉鎮計畫管理.md"
               }
             }
           },
@@ -160,18 +160,16 @@
       "graph:查看關聯圖": false,
       "templates:插入模板": true,
       "command-palette:開啟命令面板": true,
-      "zk-prefixer:建立新唯一筆記": true,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "canvas:建立新畫布": true,
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "0ec5d08149b74640",
+  "active": "95b3416528f0cb79",
   "lastOpenFiles": [
+    "03-Issues/_index.md",
     "00-DailyNotes/2023-07-21.md",
     "03-Issues/4-2-3 鄉鎮計畫管理.md",
     "03-Issues/將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
-    "03-Issues/_index.md",
     "99-Library/保育案資料庫新舊比較.md",
     "02-Projects/WEL.md",
     "02-Projects/GDB/gdb.sso.etl.backstage.md",
