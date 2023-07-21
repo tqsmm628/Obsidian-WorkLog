@@ -3,5 +3,6 @@
   "theme": "system",
   "cssTheme": "Things",
   "showViewHeader": true,
-  "translucency": false
+  "translucency": false,
+  "baseFontSizeAction": true
 }

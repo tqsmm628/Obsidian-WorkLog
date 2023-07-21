@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "84b5784f70240037",
@@ -146,7 +147,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -166,8 +168,8 @@
   "active": "95b3416528f0cb79",
   "lastOpenFiles": [
     "00-DailyNotes/2023-07-21.md",
-    "00-DailyNotes/2023-08-18.md",
     "03-Issues/4-2-3 鄉鎮計畫管理.md",
+    "00-DailyNotes/2023-08-18.md",
     "00-DailyNotes/2023-11-07.md",
     "README.md",
     "03-Issues/_index.md",
