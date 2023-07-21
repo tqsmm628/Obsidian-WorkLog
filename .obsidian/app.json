@@ -8,7 +8,7 @@
   "attachmentFolderPath": "88-Attachments",
   "strictLineBreaks": false,
   "showLineNumber": false,
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "newFileFolderPath": "99-Library",
   "readableLineLength": true,
   "showFrontmatter": false,
