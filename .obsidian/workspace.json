@@ -145,9 +145,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "bf78a38d74179106",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -160,11 +168,11 @@
       "graph:查看關聯圖": false,
       "templates:插入模板": false,
       "command-palette:開啟命令面板": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "daily-notes:開啟今天的每日筆記": false
+      "daily-notes:開啟今天的每日筆記": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0ec5d08149b74640",
+  "active": "95b3416528f0cb79",
   "lastOpenFiles": [
     "77-Templates",
     "00-DailyNotes/2023-07-21.md",
