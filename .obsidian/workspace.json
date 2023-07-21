@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-DailyNotes/2023-07-21.md",
+                "file": "03-Issues/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-DailyNotes/2023-07-21.md",
+                "file": "03-Issues/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-DailyNotes/2023-07-21.md",
+                "file": "03-Issues/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-DailyNotes/2023-07-21.md"
+                "file": "03-Issues/_index.md"
               }
             }
           },
@@ -167,10 +166,10 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "95b3416528f0cb79",
+  "active": "0ec5d08149b74640",
   "lastOpenFiles": [
-    "03-Issues/4-2-3 鄉鎮計畫管理.md",
     "00-DailyNotes/2023-07-21.md",
+    "03-Issues/4-2-3 鄉鎮計畫管理.md",
     "03-Issues/將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
     "03-Issues/_index.md",
     "99-Library/保育案資料庫新舊比較.md",
