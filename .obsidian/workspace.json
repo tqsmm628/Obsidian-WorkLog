@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Issues/將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
+                "file": "00-DailyNotes/2023-07-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "84b5784f70240037",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-Issues/將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
+                "file": "00-DailyNotes/2023-07-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03-Issues/將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
+                "file": "00-DailyNotes/2023-07-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Issues/將keycloak的密碼更新時間同步至TGPSSO資料庫.md"
+                "file": "00-DailyNotes/2023-07-24.md"
               }
             }
           },
@@ -172,8 +171,10 @@
       "command-palette:開啟命令面板": true
     }
   },
-  "active": "ad8d6f0750a93ba3",
+  "active": "0ec5d08149b74640",
   "lastOpenFiles": [
+    "04-IISI",
+    "03-Issues/將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
     "00-DailyNotes/2023-07-24.md",
     "99-Library/保育案資料庫新舊比較.md",
     "03-Issues/4-2-3 鄉鎮計畫管理.md",
@@ -183,7 +184,6 @@
     "00-DailyNotes/2023-11-07.md",
     "README.md",
     "03-Issues/_index.md",
-    "03-Issues/將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
     "02-Projects/WEL.md",
     "02-Projects/GDB/gdb.sso.etl.backstage.md",
     "02-Projects/PTX.md",
@@ -209,7 +209,6 @@
     "202305291127.md",
     "202305291128.md",
     "我的資料夾/我的新筆記.md",
-    "Issues/4-2-1 中央計畫管理.md",
     "Projects/未命名.canvas"
   ]
 }
