@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Issues/4-2-3 鄉鎮計畫管理.md",
+                "file": "02-Projects/WEL.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "84b5784f70240037",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-Issues/4-2-3 鄉鎮計畫管理.md",
+                "file": "02-Projects/WEL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03-Issues/4-2-3 鄉鎮計畫管理.md",
+                "file": "02-Projects/WEL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Issues/4-2-3 鄉鎮計畫管理.md"
+                "file": "02-Projects/WEL.md"
               }
             }
           },
@@ -174,12 +173,13 @@
   },
   "active": "ad8d6f0750a93ba3",
   "lastOpenFiles": [
+    "02-Projects/GDB/gdb.sso.etl.backstage.md",
+    "03-Issues/4-2-3 鄉鎮計畫管理.md",
     "00-DailyNotes/2023-07-24.md",
     "04-IISI/Internals.md",
     "04-IISI",
     "03-Issues/將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
     "99-Library/保育案資料庫新舊比較.md",
-    "03-Issues/4-2-3 鄉鎮計畫管理.md",
     "77-Templates",
     "00-DailyNotes/2023-07-21.md",
     "00-DailyNotes/2023-08-18.md",
@@ -187,7 +187,6 @@
     "README.md",
     "03-Issues/_index.md",
     "02-Projects/WEL.md",
-    "02-Projects/GDB/gdb.sso.etl.backstage.md",
     "02-Projects/PTX.md",
     "00-DailyNotes/2023-07-20.md",
     "00-DailyNotes/2023-07-19.md",
