@@ -8,19 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "95b3416528f0cb79",
+            "id": "ad8d6f0750a93ba3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-DailyNotes/2023-07-24.md",
+                "file": "03-Issues/將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "84b5784f70240037",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-DailyNotes/2023-07-24.md",
+                "file": "03-Issues/將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-DailyNotes/2023-07-24.md",
+                "file": "03-Issues/將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-DailyNotes/2023-07-24.md"
+                "file": "03-Issues/將keycloak的密碼更新時間同步至TGPSSO資料庫.md"
               }
             }
           },
@@ -172,10 +172,10 @@
       "command-palette:開啟命令面板": true
     }
   },
-  "active": "0ec5d08149b74640",
+  "active": "ad8d6f0750a93ba3",
   "lastOpenFiles": [
-    "99-Library/保育案資料庫新舊比較.md",
     "00-DailyNotes/2023-07-24.md",
+    "99-Library/保育案資料庫新舊比較.md",
     "03-Issues/4-2-3 鄉鎮計畫管理.md",
     "77-Templates",
     "00-DailyNotes/2023-07-21.md",

@@ -55,3 +55,6 @@ type: gdb
 	- LoggerHelper的CreateLogger的LogType用自定義。
 
 目前按照上面的步驟做了，但無法在[kibana](https://192.168.50.56/kibana/app/discover)看到
+
+# [[2023-07-24]]
+
