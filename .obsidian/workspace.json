@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-DailyNotes/2023-07-24.md",
+                "file": "04-IISI/Internals.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-DailyNotes/2023-07-24.md",
+                "file": "04-IISI/Internals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-DailyNotes/2023-07-24.md",
+                "file": "04-IISI/Internals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-DailyNotes/2023-07-24.md"
+                "file": "04-IISI/Internals.md"
               }
             }
           },
@@ -171,11 +171,12 @@
       "command-palette:開啟命令面板": true
     }
   },
-  "active": "0ec5d08149b74640",
+  "active": "ad8d6f0750a93ba3",
   "lastOpenFiles": [
+    "00-DailyNotes/2023-07-24.md",
+    "04-IISI/Internals.md",
     "04-IISI",
     "03-Issues/將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
-    "00-DailyNotes/2023-07-24.md",
     "99-Library/保育案資料庫新舊比較.md",
     "03-Issues/4-2-3 鄉鎮計畫管理.md",
     "77-Templates",
@@ -205,7 +206,6 @@
     "Projects/未命名",
     "Projects/Issues/4-2-1 中央計畫管理.md",
     "Projects/Issues/Archive",
-    "Projects/Issues",
     "202305291127.md",
     "202305291128.md",
     "我的資料夾/我的新筆記.md",

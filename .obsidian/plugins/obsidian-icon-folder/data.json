@@ -6,6 +6,7 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasCompass",
       "LiLayoutTemplate",
       "🏠",
       "🐭",
@@ -30,5 +31,6 @@
   "99-Library": "🔑",
   "03-Issues": "‼",
   "README.md": "🏠",
-  "77-Templates": "LiLayoutTemplate"
+  "77-Templates": "LiLayoutTemplate",
+  "04-IISI": "FasCompass"
 }
