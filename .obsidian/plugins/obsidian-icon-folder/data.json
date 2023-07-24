@@ -6,6 +6,7 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiLayoutTemplate",
       "🏠",
       "🐭",
       "‼",
@@ -28,5 +29,6 @@
   "02-Projects": "💼",
   "99-Library": "🔑",
   "03-Issues": "‼",
-  "README.md": "🏠"
+  "README.md": "🏠",
+  "77-Templates": "LiLayoutTemplate"
 }
