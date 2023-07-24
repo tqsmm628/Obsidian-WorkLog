@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-IISI/Internals.md",
+                "file": "03-Issues/4-2-3 鄉鎮計畫管理.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "84b5784f70240037",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-IISI/Internals.md",
+                "file": "03-Issues/4-2-3 鄉鎮計畫管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-IISI/Internals.md",
+                "file": "03-Issues/4-2-3 鄉鎮計畫管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-IISI/Internals.md"
+                "file": "03-Issues/4-2-3 鄉鎮計畫管理.md"
               }
             }
           },
