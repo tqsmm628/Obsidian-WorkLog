@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "51abc2caf114aba1",
+        "id": "33d2a7093fcee7b1",
         "type": "tabs",
         "children": [
           {
-            "id": "ad8d6f0750a93ba3",
+            "id": "8e88bacdbba81b75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-DailyNotes/2023-07-26.md",
-                "mode": "source",
+                "file": "99-Library/pininfo.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -31,6 +31,7 @@
       {
         "id": "3cf228bd2c71fd3f",
         "type": "tabs",
+        "dimension": 50.34802784222738,
         "children": [
           {
             "id": "0ec5d08149b74640",
@@ -64,6 +65,35 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "774624e0cab5c5ce",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "5acf5a4f775ffc5f",
+        "type": "tabs",
+        "dimension": 49.651972157772626,
+        "children": [
+          {
+            "id": "72a71a6f4631a7f5",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view-list",
+              "state": {
+                "tags": [
+                  "_untagged"
+                ],
+                "title": "_untagged"
+              }
+            }
           }
         ]
       }
@@ -85,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-DailyNotes/2023-07-26.md",
+                "file": "99-Library/pininfo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-DailyNotes/2023-07-26.md",
+                "file": "99-Library/pininfo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-DailyNotes/2023-07-26.md"
+                "file": "99-Library/pininfo.md"
               }
             }
           },
@@ -162,19 +192,24 @@
       "command-palette:開啟命令面板": true
     }
   },
-  "active": "ad8d6f0750a93ba3",
+  "active": "8e88bacdbba81b75",
   "lastOpenFiles": [
-    "99-Library/保育案資料庫新舊比較.md",
+    "99-Librarypininfo.md",
+    "99-Library/未命名.md",
+    "99",
+    "9",
+    "99-Library/pininfo.md",
+    "03-Issues/4-2-1 中央計畫管理.md",
+    "03-Issues/將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
+    "03-Issues/4-2-3 鄉鎮計畫管理.md",
     "00-DailyNotes/2023-07-26.md",
+    "99-Library/保育案資料庫新舊比較.md",
     "02-Projects/WEL.md",
     "02-Projects/GDB/gdb.sso.etl.backstage.md",
     "00-DailyNotes/2023-07-25.md",
-    "03-Issues/4-2-1 中央計畫管理.md",
-    "03-Issues/4-2-3 鄉鎮計畫管理.md",
     "00-DailyNotes/2023-07-24.md",
     "04-IISI/Internals.md",
     "04-IISI",
-    "03-Issues/將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
     "77-Templates",
     "00-DailyNotes/2023-07-21.md",
     "00-DailyNotes/2023-08-18.md",
@@ -195,11 +230,6 @@
     "01 - Logs/2023-07-18.md",
     "01-Inbox",
     "00-DailyNotes",
-    "202307191026.md",
-    "Projects/未命名",
-    "Projects/Issues/4-2-1 中央計畫管理.md",
-    "Projects/Issues/Archive",
-    "202305291127.md",
     "Projects/未命名.canvas"
   ]
 }
