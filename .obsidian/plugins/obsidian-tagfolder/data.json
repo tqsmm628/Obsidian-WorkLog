@@ -1,7 +1,7 @@
 {
   "displayMethod": "NAME",
   "alwaysOpen": false,
-  "ignoreDocTags": "",
+  "ignoreDocTags": "_untagged",
   "ignoreTags": "",
   "hideOnRootTags": "",
   "sortType": "DISPNAME_ASC",
@@ -10,7 +10,7 @@
   "expandLimit": 0,
   "disableNestedTags": false,
   "hideItems": "NONE",
-  "ignoreFolders": "",
+  "ignoreFolders": "00-DailyNotes,99-Library",
   "targetFolders": "",
   "scanDelay": 250,
   "useTitle": false,

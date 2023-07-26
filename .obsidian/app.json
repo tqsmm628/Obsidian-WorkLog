@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "newFileLocation": "folder",
   "promptDelete": false,
   "livePreview": true,

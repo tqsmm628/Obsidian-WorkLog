@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "33d2a7093fcee7b1",
+        "id": "5a3573038c347161",
         "type": "tabs",
         "children": [
           {
-            "id": "8e88bacdbba81b75",
+            "id": "357023f9465436a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99-Library/pininfo.md",
-                "mode": "preview",
+                "file": "03-Issues/4-2-3 鄉鎮計畫管理.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -31,7 +31,6 @@
       {
         "id": "3cf228bd2c71fd3f",
         "type": "tabs",
-        "dimension": 50.34802784222738,
         "children": [
           {
             "id": "0ec5d08149b74640",
@@ -74,32 +73,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "5acf5a4f775ffc5f",
-        "type": "tabs",
-        "dimension": 49.651972157772626,
-        "children": [
-          {
-            "id": "72a71a6f4631a7f5",
-            "type": "leaf",
-            "state": {
-              "type": "tagfolder-view-list",
-              "state": {
-                "tags": [
-                  "_untagged"
-                ],
-                "title": "_untagged"
-              }
-            }
-          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "84b5784f70240037",
@@ -115,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99-Library/pininfo.md",
+                "file": "03-Issues/4-2-3 鄉鎮計畫管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99-Library/pininfo.md",
+                "file": "03-Issues/4-2-3 鄉鎮計畫管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99-Library/pininfo.md"
+                "file": "03-Issues/4-2-3 鄉鎮計畫管理.md"
               }
             }
           },
@@ -192,8 +171,11 @@
       "command-palette:開啟命令面板": true
     }
   },
-  "active": "8e88bacdbba81b75",
+  "active": "357023f9465436a1",
   "lastOpenFiles": [
+    "04-IISI/Internals.md",
+    "02-Projects/WEL.md",
+    "00-DailyNotes/2023-07-26.md",
     "99-Librarypininfo.md",
     "99-Library/未命名.md",
     "99",
@@ -202,13 +184,10 @@
     "03-Issues/4-2-1 中央計畫管理.md",
     "03-Issues/將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
     "03-Issues/4-2-3 鄉鎮計畫管理.md",
-    "00-DailyNotes/2023-07-26.md",
     "99-Library/保育案資料庫新舊比較.md",
-    "02-Projects/WEL.md",
     "02-Projects/GDB/gdb.sso.etl.backstage.md",
     "00-DailyNotes/2023-07-25.md",
     "00-DailyNotes/2023-07-24.md",
-    "04-IISI/Internals.md",
     "04-IISI",
     "77-Templates",
     "00-DailyNotes/2023-07-21.md",
