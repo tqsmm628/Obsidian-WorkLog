@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99-Library/保育案資料庫新舊比較.md",
+                "file": "03-Issues/4-7-5 計畫提報查詢.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "84b5784f70240037",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99-Library/保育案資料庫新舊比較.md",
+                "file": "03-Issues/4-7-5 計畫提報查詢.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99-Library/保育案資料庫新舊比較.md",
+                "file": "03-Issues/4-7-5 計畫提報查詢.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99-Library/保育案資料庫新舊比較.md"
+                "file": "03-Issues/4-7-5 計畫提報查詢.md"
               }
             }
           },
@@ -173,9 +172,12 @@
   },
   "active": "357023f9465436a1",
   "lastOpenFiles": [
+    "03-Issues/_index.md",
+    "03-Issues/4-7-5 計畫提報查詢.md",
+    "03-Issues/4-2-1 中央計畫管理.md",
+    "99-Library/保育案資料庫新舊比較.md",
     "02-Projects/WEL.md",
     "02-Projects/GDB/gdb.sso.etl.backstage.md",
-    "03-Issues/_index.md",
     "README.md",
     "00-DailyNotes/2023-07-26.md",
     "04-IISI/Internals.md",
@@ -185,9 +187,7 @@
     "99",
     "9",
     "99-Library/pininfo.md",
-    "03-Issues/4-2-1 中央計畫管理.md",
     "03-Issues/將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
-    "99-Library/保育案資料庫新舊比較.md",
     "00-DailyNotes/2023-07-25.md",
     "00-DailyNotes/2023-07-24.md",
     "04-IISI",
@@ -206,7 +206,6 @@
     "88-Attachments",
     "99-Library",
     "99-Library/PTX環境.md",
-    "01 - Logs/2023-07-18.md",
     "01-Inbox",
     "00-DailyNotes",
     "Projects/未命名.canvas"
