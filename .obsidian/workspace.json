@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Issues/4-7-5 計畫提報查詢.md",
+                "file": "00-DailyNotes/2023-07-31.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-Issues/4-7-5 計畫提報查詢.md",
+                "file": "00-DailyNotes/2023-07-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03-Issues/4-7-5 計畫提報查詢.md",
+                "file": "00-DailyNotes/2023-07-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Issues/4-7-5 計畫提報查詢.md"
+                "file": "00-DailyNotes/2023-07-31.md"
               }
             }
           },
@@ -172,8 +172,9 @@
   },
   "active": "357023f9465436a1",
   "lastOpenFiles": [
-    "03-Issues/_index.md",
     "03-Issues/4-7-5 計畫提報查詢.md",
+    "00-DailyNotes/2023-07-31.md",
+    "03-Issues/_index.md",
     "03-Issues/4-2-1 中央計畫管理.md",
     "99-Library/保育案資料庫新舊比較.md",
     "02-Projects/WEL.md",
@@ -205,7 +206,6 @@
     "03-Issues",
     "88-Attachments",
     "99-Library",
-    "99-Library/PTX環境.md",
     "01-Inbox",
     "00-DailyNotes",
     "Projects/未命名.canvas"
