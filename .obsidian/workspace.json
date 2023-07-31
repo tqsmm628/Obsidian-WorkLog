@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-IISI/Internals.md",
+                "file": "99-Library/PTX環境.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#doing",
+                "query": "kibana",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-IISI/Internals.md",
+                "file": "99-Library/PTX環境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-IISI/Internals.md",
+                "file": "99-Library/PTX環境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-IISI/Internals.md"
+                "file": "99-Library/PTX環境.md"
               }
             }
           },
@@ -173,6 +174,7 @@
   },
   "active": "357023f9465436a1",
   "lastOpenFiles": [
+    "04-IISI/Internals.md",
     "03-Issues/_index.md",
     "00-DailyNotes/2023-07-31.md",
     "03-Issues/4-7-5 計畫提報查詢.md",
@@ -182,7 +184,6 @@
     "02-Projects/GDB/gdb.sso.etl.backstage.md",
     "README.md",
     "00-DailyNotes/2023-07-26.md",
-    "04-IISI/Internals.md",
     "03-Issues/4-2-3 鄉鎮計畫管理.md",
     "99-Librarypininfo.md",
     "99-Library/未命名.md",
