@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Issues/_index.md",
+                "file": "04-IISI/Internals.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-Issues/_index.md",
+                "file": "04-IISI/Internals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03-Issues/_index.md",
+                "file": "04-IISI/Internals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Issues/_index.md"
+                "file": "04-IISI/Internals.md"
               }
             }
           },
@@ -172,9 +172,9 @@
   },
   "active": "357023f9465436a1",
   "lastOpenFiles": [
+    "03-Issues/_index.md",
     "00-DailyNotes/2023-07-31.md",
     "03-Issues/4-7-5 計畫提報查詢.md",
-    "03-Issues/_index.md",
     "03-Issues/4-2-1 中央計畫管理.md",
     "99-Library/保育案資料庫新舊比較.md",
     "02-Projects/WEL.md",
