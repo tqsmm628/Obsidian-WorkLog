@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99-Library/保育案資料庫新舊比較.md",
+                "file": "02-Projects/PTX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f552035f756ebec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99-Library/PTX環境.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "84b5784f70240037",
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99-Library/保育案資料庫新舊比較.md",
+                "file": "99-Library/PTX環境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99-Library/保育案資料庫新舊比較.md",
+                "file": "99-Library/PTX環境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99-Library/保育案資料庫新舊比較.md"
+                "file": "99-Library/PTX環境.md"
               }
             }
           },
@@ -172,20 +184,21 @@
       "command-palette:開啟命令面板": true
     }
   },
-  "active": "c27c0f8ae727b5a2",
+  "active": "8f552035f756ebec",
   "lastOpenFiles": [
+    "02-Projects/PTX.md",
+    "04-IISI/Internals.md",
+    "99-Library/保育案資料庫新舊比較.md",
     "02-Projects/WEL.md",
     "00-DailyNotes/2023-08-02.md",
     "99-Library/PTX環境.md",
     "00-DailyNotes/2023-08-01.md",
     "02-Projects/GDB/gdb.sso.etl.backstage.md",
     "03-Issues/將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
-    "04-IISI/Internals.md",
     "03-Issues/_index.md",
     "00-DailyNotes/2023-07-31.md",
     "03-Issues/4-7-5 計畫提報查詢.md",
     "03-Issues/4-2-1 中央計畫管理.md",
-    "99-Library/保育案資料庫新舊比較.md",
     "README.md",
     "00-DailyNotes/2023-07-26.md",
     "03-Issues/4-2-3 鄉鎮計畫管理.md",
@@ -201,7 +214,6 @@
     "00-DailyNotes/2023-07-21.md",
     "00-DailyNotes/2023-08-18.md",
     "00-DailyNotes/2023-11-07.md",
-    "02-Projects/PTX.md",
     "00-DailyNotes/2023-07-20.md",
     "00-DailyNotes/2023-07-19.md",
     "02-Projects/GDB",
