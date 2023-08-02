@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-DailyNotes/2023-08-02.md",
+                "file": "99-Library/保育案資料庫新舊比較.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "84b5784f70240037",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-DailyNotes/2023-08-02.md",
+                "file": "99-Library/保育案資料庫新舊比較.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-DailyNotes/2023-08-02.md",
+                "file": "99-Library/保育案資料庫新舊比較.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-DailyNotes/2023-08-02.md"
+                "file": "99-Library/保育案資料庫新舊比較.md"
               }
             }
           },
@@ -154,7 +155,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -173,6 +174,7 @@
   },
   "active": "c27c0f8ae727b5a2",
   "lastOpenFiles": [
+    "02-Projects/WEL.md",
     "00-DailyNotes/2023-08-02.md",
     "99-Library/PTX環境.md",
     "00-DailyNotes/2023-08-01.md",
@@ -184,7 +186,6 @@
     "03-Issues/4-7-5 計畫提報查詢.md",
     "03-Issues/4-2-1 中央計畫管理.md",
     "99-Library/保育案資料庫新舊比較.md",
-    "02-Projects/WEL.md",
     "README.md",
     "00-DailyNotes/2023-07-26.md",
     "03-Issues/4-2-3 鄉鎮計畫管理.md",
