@@ -12,5 +12,6 @@
   "newFileFolderPath": "99-Library",
   "readableLineLength": true,
   "showFrontmatter": false,
-  "showIndentGuide": false
+  "showIndentGuide": false,
+  "trashOption": "local"
 }
