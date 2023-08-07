@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99-Library/保育案資料庫新舊比較.md",
+                "file": "00-DailyNotes/2023-08-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99-Library/保育案資料庫新舊比較.md",
+                "file": "00-DailyNotes/2023-08-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99-Library/保育案資料庫新舊比較.md",
+                "file": "00-DailyNotes/2023-08-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99-Library/保育案資料庫新舊比較.md"
+                "file": "00-DailyNotes/2023-08-07.md"
               }
             }
           },
@@ -173,11 +173,12 @@
   },
   "active": "c27c0f8ae727b5a2",
   "lastOpenFiles": [
+    "99-Library/保育案資料庫新舊比較.md",
+    "00-DailyNotes/2023-08-07.md",
     "99-Library/PTX環境.md",
     "00-DailyNotes/2023-08-04.md",
     "00-DailyNotes/2023-08-03.md",
     "04-IISI/Internals.md",
-    "99-Library/保育案資料庫新舊比較.md",
     "02-Projects/WEL.md",
     "02-Projects/PTX.md",
     "00-DailyNotes/2023-08-02.md",
@@ -202,7 +203,6 @@
     "77-Templates",
     "00-DailyNotes/2023-07-21.md",
     "00-DailyNotes/2023-08-18.md",
-    "00-DailyNotes/2023-11-07.md",
     "02-Projects/GDB",
     "03-Issues",
     "88-Attachments",
