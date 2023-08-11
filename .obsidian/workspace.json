@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99-Library/PTX環境.md",
+                "file": "00-DailyNotes/2023-08-11.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99-Library/PTX環境.md",
+                "file": "00-DailyNotes/2023-08-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99-Library/PTX環境.md",
+                "file": "00-DailyNotes/2023-08-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99-Library/PTX環境.md"
+                "file": "00-DailyNotes/2023-08-11.md"
               }
             }
           },
@@ -174,12 +174,13 @@
   },
   "active": "6330f6231270d5ca",
   "lastOpenFiles": [
+    "99-Library/PTX環境.md",
+    "00-DailyNotes/2023-08-11.md",
     "00-DailyNotes/2023-08-10.md",
     "00-DailyNotes/2023-08-09.md",
     "99-Library/保育案資料庫新舊比較.md",
     "00-DailyNotes/2023-08-08.md",
     "00-DailyNotes/2023-08-07.md",
-    "99-Library/PTX環境.md",
     "00-DailyNotes/2023-08-04.md",
     "00-DailyNotes/2023-08-03.md",
     "04-IISI/Internals.md",
@@ -201,7 +202,6 @@
     "99",
     "9",
     "99-Library/pininfo.md",
-    "00-DailyNotes/2023-07-25.md",
     "04-IISI",
     "77-Templates",
     "02-Projects/GDB",
