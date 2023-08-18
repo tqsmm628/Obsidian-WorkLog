@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-DailyNotes/2023-08-18.md",
+                "file": "99-Library/PTX環境.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-DailyNotes/2023-08-18.md",
+                "file": "99-Library/PTX環境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-DailyNotes/2023-08-18.md",
+                "file": "99-Library/PTX環境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-DailyNotes/2023-08-18.md"
+                "file": "99-Library/PTX環境.md"
               }
             }
           },
@@ -174,6 +174,7 @@
   },
   "active": "6330f6231270d5ca",
   "lastOpenFiles": [
+    "00-DailyNotes/2023-08-18.md",
     "00-DailyNotes/2023-08-16.md",
     "00-DailyNotes/2023-08-17.md",
     "00-DailyNotes/2023-08-15.md",
@@ -199,7 +200,6 @@
     "03-Issues/4-7-5 計畫提報查詢.md",
     "03-Issues/4-2-1 中央計畫管理.md",
     "README.md",
-    "00-DailyNotes/2023-07-26.md",
     "99",
     "9",
     "04-IISI",
