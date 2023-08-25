@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-DailyNotes/2023-08-24.md",
+                "file": "00-DailyNotes/2023-08-25.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-DailyNotes/2023-08-24.md",
+                "file": "00-DailyNotes/2023-08-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-DailyNotes/2023-08-24.md",
+                "file": "00-DailyNotes/2023-08-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-DailyNotes/2023-08-24.md"
+                "file": "00-DailyNotes/2023-08-25.md"
               }
             }
           },
@@ -174,8 +174,9 @@
   },
   "active": "6330f6231270d5ca",
   "lastOpenFiles": [
-    "02-Projects/PTX.md",
     "00-DailyNotes/2023-08-24.md",
+    "00-DailyNotes/2023-08-25.md",
+    "02-Projects/PTX.md",
     "00-DailyNotes/2023-08-23.md",
     "README.md",
     "04-IISI/Internals.md",
@@ -199,7 +200,6 @@
     "00-DailyNotes/2023-08-02.md",
     "00-DailyNotes/2023-08-01.md",
     "02-Projects/GDB/gdb.sso.etl.backstage.md",
-    "03-Issues/將keycloak的密碼更新時間同步至TGPSSO資料庫.md",
     "99",
     "9",
     "04-IISI",
