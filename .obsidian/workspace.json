@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-DailyNotes/2023-08-29.md",
+                "file": "00-DailyNotes/2023-08-30.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-DailyNotes/2023-08-29.md",
+                "file": "00-DailyNotes/2023-08-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-DailyNotes/2023-08-29.md",
+                "file": "00-DailyNotes/2023-08-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-DailyNotes/2023-08-29.md"
+                "file": "00-DailyNotes/2023-08-30.md"
               }
             }
           },
@@ -174,8 +174,9 @@
   },
   "active": "6330f6231270d5ca",
   "lastOpenFiles": [
-    "99-Library/保育案資料庫新舊比較.md",
     "00-DailyNotes/2023-08-29.md",
+    "00-DailyNotes/2023-08-30.md",
+    "99-Library/保育案資料庫新舊比較.md",
     "00-DailyNotes/2023-08-28.md",
     "00-DailyNotes/2023-08-25.md",
     "00-DailyNotes/2023-08-24.md",
@@ -199,7 +200,6 @@
     "00-DailyNotes/2023-08-04.md",
     "00-DailyNotes/2023-08-03.md",
     "02-Projects/WEL.md",
-    "00-DailyNotes/2023-08-02.md",
     "99",
     "9",
     "04-IISI",
