@@ -11,8 +11,23 @@
             "id": "2c4a3c6cec5651c6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "00-DailyNotes/2023-09-12.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b432e7b6f15d906",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.11"
+              }
             }
           }
         ]
@@ -89,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00-DailyNotes/2023-09-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00-DailyNotes/2023-09-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00-DailyNotes/2023-09-12.md"
+              }
             }
           },
           {
@@ -143,6 +162,16 @@
             "state": {
               "type": "calendar",
               "state": {}
+            }
+          },
+          {
+            "id": "3b112d36b29bb945",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -165,9 +194,10 @@
   },
   "active": "2c4a3c6cec5651c6",
   "lastOpenFiles": [
+    "README.md",
+    "00-DailyNotes/2023-09-12.md",
     "04-IISI/Internals.md",
     "99-Library/PTX環境.md",
-    "README.md",
     "00-DailyNotes/2023-09-11.md",
     "00-DailyNotes/2023-09-08.md",
     "00-DailyNotes/2023-09-07.md",
@@ -190,7 +220,6 @@
     "00-DailyNotes/2023-08-17.md",
     "00-DailyNotes/2023-08-15.md",
     "00-DailyNotes/2023-08-14.md",
-    "00-DailyNotes/2023-08-11.md",
     "99",
     "9",
     "04-IISI",
