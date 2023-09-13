@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "ac3d758e9cfece5f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
+          },
+          {
             "id": "5b432e7b6f15d906",
             "type": "leaf",
             "state": {
@@ -30,7 +40,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,7 +203,7 @@
       "command-palette:開啟命令面板": true
     }
   },
-  "active": "2c4a3c6cec5651c6",
+  "active": "ac3d758e9cfece5f",
   "lastOpenFiles": [
     "00-DailyNotes/2023-09-12.md",
     "00-DailyNotes/2023-09-13.md",
