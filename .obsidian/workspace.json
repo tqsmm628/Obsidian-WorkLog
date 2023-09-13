@@ -19,29 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ac3d758e9cfece5f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
-            }
-          },
-          {
-            "id": "5b432e7b6f15d906",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.11"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,10 +182,10 @@
       "command-palette:開啟命令面板": true
     }
   },
-  "active": "ac3d758e9cfece5f",
+  "active": "2c4a3c6cec5651c6",
   "lastOpenFiles": [
-    "00-DailyNotes/2023-09-12.md",
     "00-DailyNotes/2023-09-13.md",
+    "00-DailyNotes/2023-09-12.md",
     "README.md",
     "04-IISI/Internals.md",
     "99-Library/PTX環境.md",
