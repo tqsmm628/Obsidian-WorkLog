@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-DailyNotes/2023-09-20.md",
+                "file": "04-IISI/Internals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-DailyNotes/2023-09-20.md",
+                "file": "04-IISI/Internals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-DailyNotes/2023-09-20.md"
+                "file": "04-IISI/Internals.md"
               }
             }
           },
@@ -196,10 +195,10 @@
       "command-palette:開啟命令面板": true
     }
   },
-  "active": "0ca36035df171010",
+  "active": "2c4a3c6cec5651c6",
   "lastOpenFiles": [
-    "04-IISI/Internals.md",
     "00-DailyNotes/2023-09-20.md",
+    "04-IISI/Internals.md",
     "00-DailyNotes/2023-09-19.md",
     "02-Projects/WEL.md",
     "02-Projects/GDB/gdb.sso.etl.backstage.md",
