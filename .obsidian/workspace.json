@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-DailyNotes/2023-09-22.md",
+                "file": "00-DailyNotes/2023-09-23.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-DailyNotes/2023-09-22.md",
+                "file": "00-DailyNotes/2023-09-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-DailyNotes/2023-09-22.md",
+                "file": "00-DailyNotes/2023-09-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-DailyNotes/2023-09-22.md"
+                "file": "00-DailyNotes/2023-09-23.md"
               }
             }
           },
@@ -184,8 +184,9 @@
   },
   "active": "2c4a3c6cec5651c6",
   "lastOpenFiles": [
-    "04-IISI/RemoteDesktop.md",
     "00-DailyNotes/2023-09-22.md",
+    "00-DailyNotes/2023-09-23.md",
+    "04-IISI/RemoteDesktop.md",
     "04-IISI/Internals.md",
     "00-DailyNotes/2023-09-21.md",
     "03-Issues/4-2-1 中央計畫管理.md",
@@ -209,7 +210,6 @@
     "00-DailyNotes/2023-09-01.md",
     "00-DailyNotes/2023-08-30.md",
     "00-DailyNotes/2023-08-29.md",
-    "99-Library/保育案資料庫新舊比較.md",
     "99",
     "9",
     "04-IISI",
