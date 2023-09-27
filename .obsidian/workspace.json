@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "04-IISI/RemoteDesktop.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "04-IISI/RemoteDesktop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "04-IISI/RemoteDesktop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "04-IISI/RemoteDesktop.md"
               }
             }
           },
@@ -184,6 +184,7 @@
   },
   "active": "2c4a3c6cec5651c6",
   "lastOpenFiles": [
+    "README.md",
     "99-Library/PTX環境.md",
     "04-IISI/RemoteDesktop.md",
     "04-IISI/Internals.md",
@@ -202,7 +203,6 @@
     "00-DailyNotes/2023-09-14.md",
     "00-DailyNotes/2023-09-13.md",
     "00-DailyNotes/2023-09-12.md",
-    "README.md",
     "00-DailyNotes/2023-09-11.md",
     "00-DailyNotes/2023-09-08.md",
     "00-DailyNotes/2023-09-07.md",
