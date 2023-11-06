@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-DailyNotes/2023-11-03.md",
+                "file": "04-IISI/Internals.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-DailyNotes/2023-11-03.md",
+                "file": "04-IISI/Internals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-DailyNotes/2023-11-03.md",
+                "file": "04-IISI/Internals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-DailyNotes/2023-11-03.md"
+                "file": "04-IISI/Internals.md"
               }
             }
           },
@@ -184,8 +184,9 @@
   },
   "active": "f64572bcaf163981",
   "lastOpenFiles": [
-    "99-Library/PTX環境.md",
+    "00-DailyNotes/2023-11-06.md",
     "00-DailyNotes/2023-11-03.md",
+    "99-Library/PTX環境.md",
     "00-DailyNotes/2023-11-02.md",
     "04-IISI/Internals.md",
     "00-DailyNotes/2023-10-25.md",
@@ -209,7 +210,6 @@
     "00-DailyNotes/2023-09-19.md",
     "02-Projects/WEL.md",
     "02-Projects/GDB/gdb.sso.etl.backstage.md",
-    "00-DailyNotes/2023-09-18.md",
     "99",
     "9",
     "04-IISI",
